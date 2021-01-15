@@ -1,0 +1,60 @@
+1.	Sound waves do not exhibit the phenomenon of A. interference B. refraction C. diffraction D. polarization
+2.	Perspiration cools the body because A. Water has a high specific heat B. Presence of water on the skin is cooling C. Evaporation requires latent heat D. Water is poor conductor of heat
+3.	India would phase out the production and consumption of the controlled ODS (ozone - depleting substances) withing the time frame and limits specified in the A. Agenda 21 B. Basel Convention C. Montreal Protocol D. Vienna convention
+4.	The instrument used to measure pressue. A. Aneroid Barometer B. Anemometer C. Hygrometer D. Thermometer
+5.	Heat is transmitted from higher to lower temperature through actual mass motion of the molecules in A. radiation B. conduction C. convection D. all of the above
+6.	When some detergent is added to water, the surface tension: A. decreases B. increases C. remains unaffected D. none of these
+7.	A ray of light when refracted suffers change in velocity. In theis context, which one among the following statements is correct? A. Velocity decreases as the ray passes from a denser to a rarer medium B. Change of velocity does not depend on the nature of medium C. Velocity increases as the ray passes from a rarer to a denser medium D. Velocity decreases as the ray passes from a rarer to a denser medium
+8.	How can boiling point of a liquid be reduced? A. by decreasing the pressure on the liquid B. by increasing the pressure on the liquid C. by adding a solid of lower melting point D. by dissolving a soluble solid in it
+9.	 If ahigh power heater is connected to electric mains, then the bulbs in the house become dim because there is a A. no current drop B. potential drop C. no potential drop D. current drop
+10.	Which of the following can be foundas pollutants in the drinking water insome parts of India? 1. Arsenic 2. Sorbital 3. Dluoride 4. Formaldehyde 5. Uranium Select the correct answer usning fthecodes given below. A. 1 and 3 only B. 1, 3 and 5 only C. 1, 2, 3, 4 and 5 D. 2, 4 and 5 only 
+11.	A water tank appears shallower when it is viewed from top due to A. Reflection B. Total internal reflection C. Refraction D. Rectilinear propagation of light
+12.	Quality of musical note depends on A. amplitude of the wave B. harmonics present C. fundamental frequency D. velocity of sound in medium 
+13.	A soap buble is given negative charge then its radius A. none of these B. remains unchanged C. decreases D. increases 
+14.	The main source of enrgy in Sun is: A. Nuclear fission B. Mechanical energy C. Chemical reaction D. Nuclear fusion 
+15.	X- rays were discovered byA. Curie B. Roentgen C. Becquere D. Van lane 
+16.	A fuse is used in an electric circuit toA. Break the circuit when power gets off B. Indicate if the current is flowing uninterrupted C. Complete the circuit for flow of current D. Break the circuit when excessive current flows through the circuit 
+17.	The sounds having frequency of 20 Hz to 20, 000 Hz are A. Infrasonic B. Audible sounds C. Hydpersonic D. Ultrasound 
+18.	Sound moves with higher velocity if A. temperature of the medium inincreased B. both ( b ) and ( c ) C. pressure of the medium is decreased D. humidity of the medium
+19.	The intensity ratio of waves is 25:9. What is the ratio of their amplitudes? A. 50 : 18 B. 5 : 3 C. 25 : 9 D. 3 : 5 
+20.	Which one among the following is responsible for formation of 'Ozone Holes' in the stratosphere? A. Benzophye B. UV radiation C. Chlorofluorocarbons D. Hydrocarbons 
+21.	When X - rays are produced, then A. heat is observed by the target B. a lumineous light is to be seen on the target C. Temperature of the target is being constent D. heat is produced on the target 
+22.	White clothes are cooler than black ones because they A. will nt allow the light to penetrate B. Absorb all the light tha reaches them C. cool the sun light completely D. reflect all the light that reaches them 
+23.	Which one among the following rroups is the most abundant in terms of number os species identified? A. Green plants B. Insects C. Bacteria D. Fundgi 
+24.	The Doppler's effect is applicable for A. both ( a ) and ( b ) B. space wave C. light wave D. sound wave 
+25.	Which one of the following is not a result of surface tension? A. Its P.E. decrases while kinetic energy increases B. Both potential and kinetic energy increase C. Both potential and kinetic energy decrease D. Its K.E. decreases while potential energy increases 
+26.	?- ray consists of: A. Meson particles B. Neutrino particles C. Higg's boson D. Electromagnetic waves 
+27.	A plane glass slab is kept over coloured letters, the letter which appears least raised is A. Red B. Violet C. Blue D. Green 
+28.	Why is red light employed for danger signals? A. red light is scattered least B. red light is scattered most C. human eye is most sensitive to red colour D. red colour is sooting to the eye 
+29.	In an isothermal expansion of a gas A. None of these B. temperature remains constant C. a pressure remains constan D. density remains constant 
+30.	Current provided by a battery is maximum when A. internal resistance is less than external resistance B. none of these C. internal resistance is greater than external resistance D. internal resistance is equal to external resistance 
+31.	What is the principle by which a cooling system (Radiator) in a motor car works? A. Conduction only B. Convection C. Radiation only D. Both conduction and radiation 
+32.	The value of g on the Earth's surface changes due to A. Shape of Earth only B. Rotation orf the Earth only C. None of the above D. Both rotation and shape of the Earth 
+33.	The ozone layer absorbs A. X – rays B. ultraviolet radiation C. – y rays D. infrared radiation 
+34.	A person can jump higer on the moon's surface than on the earth because. A. The moon's surface is rough B. The moon is cooler than earth C. The moon has no atmosphere D. The acceleration due to gravity in moon is smaller than that on the earth 
+35.	The mass number of an atom is determined byA. Adding the number of protons and number of electrons B. Adding the number of neutrons and number of protons C. Adding the number of neutrons and number of electrons D. The number of protons only 
+36.	The rapidly growing mass of phytoplankton covering the surface water of lake or pond is known as: A. Water hyacinth B. Water bloom C. Eutrophication D. Water pollution 
+37.	The depletion of Ozone layer is mainly due toA. Chloroflurocarbons B. Aviation fuels C. Volcanic Eruptions D. Radioactive rays 
+38.	It is difficult to cook at high altitudes because A. due to decrease in atmospheric pressure, the boiling point of water decreases B. due to falling temperature, more heat has to be given C. there is less oxygen in the air D. of high moisture content there 
+39.	Light year is a measurement ofA. speed of rockets B. Speed of aeroplanes C. Stellar distance D. Speed of light 
+40.	In which of the following sequences are the electromagnetic radiations in decreasing order of wave lengths A. infrared, radio, X –rays, visible B. X – rays, visible, infrared, radio C. radio, visible, infrared, X – rays D. radio, infrared, visible, X – rays 
+41.	In optical instrument, the lenses are used to form image by the phenomenon of - A. refraction B. reflection C. diffusion D. scattering 
+42.	The head mirror used by E.N.T. doctors is A. convesx B. Cancave C. planoconvex D. plane
+43.	Instrument used to study the behavior of a vibrating string is: A. Hydrometer B. Sonmeter C. Barometer D. Hygrometer 
+44.	When the velocity of a body is doubled A. its K.E. is doubled B. its P.E. is doubled C. its acceleration is doubled D. its momentum is doubled 
+45.	The heating element of an electric heater should be made of a material having A. low specific resistance and high melting point B. low specific resistance and low melting point C. high specific resistance and high melting point D. high specific resistance and low melting point 
+46.	Which one of the following pairs ofrays is electromagnetic in nature - A. ?rays and – ß rays B. ß rays and ? rays C. cathode rays and X – rays D. X rays and ? rays 
+47.	The length of the pendulum isdoubled and the mass of its bob is halved.Its time sperod would A. become 2 times B. remain the same C. become half D. become double 
+48.	Which of the following is a primary consumer? A. Dog B. Bear C. Cow D. Hawk 
+49.	The chipko Movement1. was an environmental movement toprevent cutting down of trees2. Raised the questions of ecological andeconomic exploitation3. Is a movement against alcoholism as itsbradened agenda?4. Demanded that local communitiesshould have control over their naturalresourcesSelect the correct answer using the codegiven below. A. 1, 2, 3 and 4 B. 2 and 3 only C. 1 and 2 only D. 1, 3 and 4 only 
+50.	Red data book gives information about species which areA. Extinct B. Rare C. Endagnered D. Dangerous 
+51.	At normal temperature, due to a puncture, the compressed air inside the tube of a car wheel suddenly starts coming out. Then the air inside the tube A. Remains at the same temperature B. starts becoming cooler C. May become hotter or cooler depending on the amount of water vapour present in the air. D. starts becoming hotter 
+52.	Which one of the following is not a site for in - situ method of conservation of flora? A. Wildlife Sanctuary B. Biosphere Reserve C. National park D. Botanical Garden 
+53.	A deep sea driver may hurt his ear drum during diving because of A. high atmospheric pressure B. lack of oxygen C. high water pressure D. All of the above 
+54.	The shape of a rain drop is spherical due toA. Viscosity B. Surface tension C. Gravitation D. Elasticity
+55.	A change of 10° C in Centigrade scalecorresponds to what change in Fahrenheitscale A. 21°F B. 10°F C. 18° F D. 15°F 
+56.	The image of our face in a plane mirror A. none of these B. magnified C. diminished D. real 
+57.	This strain of rice was one of the first High Yielding Varieties of seeds developed in the world. Name it A. RV – 9 B. IS- 7 C. RS – 8 D. IR-8 
+58.	The primary colours in phothgraphy are A. red, blue, green B. red, green, cyan C. red, yellow, green D. red, blue, yellow 
+59.	When a body is earth conncected, electrons from the earth flow into the body. This means the body is A. uncharged B. charged positively C. charged negatively D. an insulator 
+60.	Which of the following is not the cause of low conductivity of electrolyte A. Low number of density of charge carriers B. Low drift velocity of ions C. Ionization of salt D. High resistance offered by the solution of the motion of ions 
